@@ -71,8 +71,6 @@ export const metadata: Metadata = {
 			bing: "bing-verification-code",
 		},
 	},
-	manifest: "https://www.example.com/manifest.json",
-	// other custom meta tags if needed:
 	other: {
 		"theme-color": "#ffffff",
 		"msapplication-tilecolor": "#ffffff",
